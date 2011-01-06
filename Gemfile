@@ -32,6 +32,7 @@ gem 'cancan'
 group :development, :test do
   gem 'cucumber'
   gem 'cucumber-rails'
+  gem 'capybara'
   gem 'rspec'
   gem 'rspec-rails'
   gem 'shoulda'
